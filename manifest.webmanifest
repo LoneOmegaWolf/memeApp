@@ -3,7 +3,7 @@
     "background_color": "#008000",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/WorkingPlace.html",
+    "start_url": "/index.html",
     "name": "Meme App",
     "short_name": "Memes",
     "icons": [
